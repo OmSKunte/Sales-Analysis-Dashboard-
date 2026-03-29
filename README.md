@@ -32,7 +32,7 @@ It provides clear insights into revenue, product performance, and trends using v
 
 ## 📌 Key Insights
 
-- Total YTD Sales: ₹228.5M  
+- Total YTD Sales
 - Strong performance observed in mid-year months  
 - Carbide Inserts & Threading Tools are top-performing categories  
 - Consistent weekly sales trend with slight fluctuations  
@@ -41,7 +41,7 @@ It provides clear insights into revenue, product performance, and trends using v
 
 ## 📥 How to Use
 
-1. Download the `.pbix` file  
+1. Download the [MFT Dashboard.pbix](https://raw.githubusercontent.com/OmSKunte/Sales-Analysis-Dashboard-/main/MFT%20Dashboard.pbix)
 2. Open it in Power BI Desktop  
 3. Explore filters, charts, and insights  
 
