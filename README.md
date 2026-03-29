@@ -18,7 +18,7 @@ It provides clear insights into revenue, product performance, and trends using v
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/de4d6b4e-2eec-4b4a-ba30-b7a3d6e742bd)
+![Dashboard](https://raw.githubusercontent.com/OmSKunte/Sales-Analysis-Dashboard-/main/Dashboard.jpeg)
 
 ---
 
